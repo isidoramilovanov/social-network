@@ -1,0 +1,8 @@
+.directory-menu {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* background-image: linear-gradient(to bottom right, #dfe6e9, #fab1a0); */
+    background-color: #ecf0f1;
+    width: 90%;
+}

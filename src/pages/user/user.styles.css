@@ -1,0 +1,40 @@
+.user-page {
+    background-color: #efaaaa;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.user {
+    background-color: #ecf0f1;
+    width: 70%;
+}
+
+.user-data {
+    text-align: center;
+    margin: 20px;
+}
+
+.user-img{
+    width: 300px;
+}
+
+.user-friends {
+    text-align: center;
+}
+
+
+.friends-of-friends {
+    text-align: center;
+}
+
+.suggested-friends {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .user-img {
+        width: 200px;
+    }
+}

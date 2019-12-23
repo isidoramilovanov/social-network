@@ -1,0 +1,18 @@
+.user-list {
+    margin: 20px;
+   
+}
+
+.user-list-img {
+    width: 300px;
+    transition: transform 1s;
+}
+
+.user-list-img:hover {
+    transform: scale(0.9);
+}
+
+.user-name {
+    text-align: center;
+    color: #f08d8d;
+}
